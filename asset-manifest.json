@@ -1,16 +1,14 @@
 {
   "files": {
     "main.css": "/sirajju/emojiPicker/static/css/main.f855e6bc.css",
-    "main.js": "/sirajju/emojiPicker/static/js/main.50415cfc.js",
-    "static/js/453.90e1c306.chunk.js": "/sirajju/emojiPicker/static/js/453.90e1c306.chunk.js",
+    "main.js": "/sirajju/emojiPicker/static/js/main.bb422bb3.js",
     "static/media/logo.svg": "/sirajju/emojiPicker/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/sirajju/emojiPicker/index.html",
     "main.f855e6bc.css.map": "/sirajju/emojiPicker/static/css/main.f855e6bc.css.map",
-    "main.50415cfc.js.map": "/sirajju/emojiPicker/static/js/main.50415cfc.js.map",
-    "453.90e1c306.chunk.js.map": "/sirajju/emojiPicker/static/js/453.90e1c306.chunk.js.map"
+    "main.bb422bb3.js.map": "/sirajju/emojiPicker/static/js/main.bb422bb3.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.50415cfc.js"
+    "static/js/main.bb422bb3.js"
   ]
 }
